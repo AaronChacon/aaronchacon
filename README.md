@@ -7,7 +7,7 @@
 const aaronch = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [Angular, React,]
+  tools: [Angular, React]
 }
 ```
 
