@@ -1,7 +1,7 @@
 ### 
-<h1 align="center">Hi, I'm Aaron 😎👋🏽 </h1>
-<h3 align="center">I´m Frontend Developer</h3>
-
+<h1>Hi, I'm Aaron 😎👋🏽 </h1>
+<h3>I´m Frontend Developer</h3>
+<br/>
 
 ```javascript
 const aaronch = {
