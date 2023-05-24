@@ -5,8 +5,8 @@
 
 ```javascript
 const aaronch = {
-  code: [Javascript, Typescript, HTML, CSS],
-  tools: [Angular, React]
+  code: [ Javascript, Typescript, HTML, CSS ],
+  tools: [ Angular, React, SASS,  ]
 }
 ```
 
